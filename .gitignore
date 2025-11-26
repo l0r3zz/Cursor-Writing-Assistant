@@ -5,6 +5,7 @@ staging/
 
 # macOS system files
 .DS_Store
+**/.DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
@@ -12,5 +13,7 @@ staging/
 .AppleDouble
 .LSOverride
 
-# Ignore .DS_Store in all directories
-**/.DS_Store
+# Editor backup files
+*.swp
+*.swo
+*~
