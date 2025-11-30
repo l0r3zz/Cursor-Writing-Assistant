@@ -50,7 +50,10 @@ For every technical statement:
 - Is context provided?
 - Could data be misinterpreted?
 
-## Validation Output
+## Validation Output Format
+
+**IMPORTANT:** When generating output, use the actual current date in YYYY-MM-DD format. Do NOT use the literal text "YYYY-MM-DD".
+
 ```markdown
 # Technical Validation: [Section]
 **Date:** YYYY-MM-DD

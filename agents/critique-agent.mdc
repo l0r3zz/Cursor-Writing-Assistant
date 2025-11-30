@@ -55,6 +55,9 @@ Provide constructive feedback on drafts to improve:
 - Is advice specific enough?
 
 ## Feedback Format
+
+**IMPORTANT:** When generating output, use the actual current date in YYYY-MM-DD format. Do NOT use the literal text "YYYY-MM-DD".
+
 ```markdown
 # Critique: [Draft Title]
 **Date:** YYYY-MM-DD
