@@ -1,13 +1,13 @@
 # Open Projects Reference
 
-**Last Updated:** 2025-01-27  
+**Last Updated:** 2026-01-11  
 **Workspace:** Multi-root workspace in Cursor
 
 ---
 
 ## Overview
 
-This Cursor workspace contains two projects working together for the book "SLOs Can't Catch a Black Swan":
+This it's an example of how to set up a Cursor workspace to have the writing assistant along with the manuscript that you're working on. In this case, it was for the book "SLOs Can't Catch a Black Swan":
 
 1. **SLOBlackSwan-Cursor** - AI-assisted writing workflow (active development)
 2. **Scrivener Input** - Content repository for Scrivener import (Dropbox synced)
@@ -37,7 +37,7 @@ This Cursor workspace contains two projects working together for the book "SLOs 
   - Recent: `critique_black_swan_incidents_2025_20250127.md`, `validation_black_swan_incidents_2025_20250127.md`
 - **images/** - Visual assets (currently empty)
 
-#### Source Materials (`input/`)
+#### Source Materials (`input/`) (these are examples, clear them out and add your own stuff)
 - `1980-ARPANET-collapse.md`
 - `1988-Internet-Worm.md`
 - `2008-financial-crisis.md`
@@ -53,7 +53,7 @@ This Cursor workspace contains two projects working together for the book "SLOs 
 #### Staging Area (`staging/`)
 - `ready-for-scrivener/` - Curated outputs organized for Scrivener import
 
-#### Author Persona (`persona/`)
+#### Author Persona (`persona/`) (these are my own tailored personas, replace with your own)
 - **`persona/`** - Author persona files (professional, spiritual, writing voice)
   - `persona/professional-persona.md` - Professional background and expertise
   - `persona/spiritual-persona.md` - Spiritual beliefs and worldview
@@ -63,7 +63,6 @@ This Cursor workspace contains two projects working together for the book "SLOs 
 
 #### Configuration
 - **`.cursorrules`** - Global agent behavior rules (includes persona file references)
-- **`SLO Black Swan Book Project.code-workspace`** - Multi-root workspace config
 - **`.env`** - API keys (git-ignored)
 
 ### Workflow
