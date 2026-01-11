@@ -1,6 +1,6 @@
-# SLOs Can't Catch a Black Swan - Book Writing Workflow
+# Cursor Writing Assistant - Book Writing Workflow
 
-A multi-agent AI-assisted workflow for writing "SLOs Can't Catch a Black Swan," a technical book about Site Reliability Engineering and risk management. This project uses Cursor 2.0 to orchestrate multiple AI agents (Claude, Perplexity, OpenAI, Gemini) for research, drafting, critique, and technical validation, with semi-automated integration into Scrivener.
+A multi-agent AI-assisted workflow for writing "Books and Blogs and just about anything else". It is a clone of the repo https://github.com/l0r3zz/SLOBlackSwan-Cursor with all the title related stuff taken out. So it can be used as a more generic implementation to be dropped into any other writing project. This project uses Cursor 2.0 to orchestrate multiple AI agents (Claude, Perplexity, OpenAI, Gemini) for research, drafting, critique, and technical validation, with semi-automated integration into Scrivener (optional).
 
 **Author:** Geoff White  
 **Project Type:** Technical Book Writing  
