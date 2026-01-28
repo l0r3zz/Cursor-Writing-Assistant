@@ -1,23 +1,25 @@
 # Persona Files
 
-This directory contains persona files that define Geoff White's professional and spiritual identity. These files provide essential context for all AI agents working on this book project.
+This directory contains persona files that define Geoff White's professional and spiritual identity. These files provide essential context for all AI agents working on writing projects.
 
 ## Purpose
 
 These persona files ensure that:
-- Writing agents match your authentic voice and perspective
-- Technical content reflects your professional background and experience
-- Content aligns with your spiritual worldview when relevant
-- All agents understand who you are as a person and professional
+- Writing agents match my authentic voice and perspective
+- Technical content reflects my  professional background and experience
+- Content aligns with my spiritual worldview when relevant
+- All agents understand I am are as a person and professional
 
 ## File Structure
 
-Place your persona files in this directory:
+Persona files in this directory:
 
+- `README.md` - Overview of persona files
+- `PERSONA.md` - link to README.md
 - `professional-persona.md` - Professional background, experience, technical expertise
-- `spiritual-persona.md` - Spiritual beliefs, worldview, values that inform your writing
+- `spiritual-persona.md` - Spiritual beliefs, worldview, values that inform my writing
 - `writing-voice.md` - Specific writing style preferences, tone, examples
-- `background.md` - Personal history, context that shapes your perspective
+- `background.md` - Personal history, context that shapes my perspective
 
 ### External Resources
 
@@ -27,6 +29,7 @@ The `resources/` subdirectory contains external documents referenced by persona 
   - See `resources/README.md` for details on referencing external documents
   - Place resume, CV, writing samples, and other reference materials here
   - Reference them in persona `.md` files using markdown links
+  - JSON format prompts for us by advisor agents as as well as assistant agents. (.json files) 
 
 ## Usage
 
@@ -52,7 +55,7 @@ See [My Resume](resources/resume.pdf) for complete professional history.
 ## Writing Examples
 
 Examples of my writing style:
-- [Blog Post 2024](resources/writing-samples/blog-post.pdf)
+- [Blog Post 2025](resources/LinkedIn-unwritten-law-of-information-flow.pdf)
 - [Technical Article](resources/writing-samples/article.pdf)
 ```
 
